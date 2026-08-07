@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-nfizv4.yoursingles.online/sitemap.xml
